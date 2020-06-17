@@ -1,6 +1,6 @@
-## Welcome to my personal GitHub Pages
+## Welcome to my personal GitHub Page (WIP)
 
-Site: https://github.com/XiruXiru/xiruxiru.github.io/edit/master/README.md
+[Edit The Site] (https://github.com/XiruXiru/xiruxiru.github.io/edit/master/README.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -35,4 +35,4 @@ The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-For help on learning more about GitHub Pages, visit: [Documentation](https://help.github.com/categories/github-pages-basics/)
+For help on learning more about GitHub Pages, visitt the [documentation](https://help.github.com/categories/github-pages-basics/)
